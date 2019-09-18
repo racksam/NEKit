@@ -1,7 +1,7 @@
-github "robbiehanson/CocoaAsyncSocket" ~> 7.6.3
-github "CocoaLumberjack/CocoaLumberjack" ~> 3.5.2
-github "lexrus/MMDB-Swift" "0.3.0"
-github "behrang/YamlSwift" "3.4.3"
+github "robbiehanson/CocoaAsyncSocket"
+github "CocoaLumberjack/CocoaLumberjack"
+github "lexrus/MMDB-Swift"
+github "behrang/YamlSwift"
 github "jedisct1/swift-sodium"
 github "racksam/tun2socks"
 github "racksam/Resolver"
